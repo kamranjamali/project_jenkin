@@ -1,5 +1,5 @@
-public Class JenkinTest{
-    public static void mai(String ars[]){
+public class JenkinTest{
+    public static void main(String ars[]){
         System.out.println("Helllo World");
     }
 }
